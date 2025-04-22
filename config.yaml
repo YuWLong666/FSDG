@@ -1,0 +1,25 @@
+lr_mult: 10.
+
+#bn_cfdg: False
+#b_bkb_c: False
+
+b_feat_oth: False
+b_same_sa_diff_g_com: False
+b_same_sa_diff_g_pvt: False
+b_diff_sa_same_g_com: False
+b_diff_sa_same_g_pvt: False
+b_diff_sa_diff_g_com: False
+b_diff_sa_diff_g_pvt: False
+
+#c_feat_oth: 0.05
+#c_same_sa_diff_g_com: 0.01
+#c_same_sa_diff_g_pvt: 0.01
+#c_diff_sa_same_g_com: 0.01
+#c_diff_sa_same_g_pvt: 0.01
+#c_diff_sa_diff_g_com: 0.01
+#c_diff_sa_diff_g_pvt: 0.01
+
+c_cond: 0.0005
+
+h: 0
+

@@ -1,0 +1,13 @@
+tensorflow
+tensorboardX
+sconf
+pandas
+tqdm
+pyyaml
+scikit-learn
+matplotlib
+seaborn
+scipy
+opencv-contrib-python==4.5.1.48
+timm
+mmcv==1.7.0
